@@ -1,0 +1,4 @@
+#!/bin/bash/
+#stop apche
+service httpd stop
+rm -rf /var/www/html/*
